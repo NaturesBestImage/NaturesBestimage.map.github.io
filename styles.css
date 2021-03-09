@@ -1,0 +1,9 @@
+header{
+    width: 1180px;
+    background-color: deepskyblue;
+    border: solid 3px darkblue;
+    text-align: center;
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+}

@@ -1,0 +1,36 @@
+
+body {
+	background: rgb(247, 186, 117);
+	color: #eee;
+	margin-top: 20px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+a {
+	color: black;
+}
+h2 {
+	color: darkblue;
+	font-size: 32;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a:hover {
+	color: yellow;
+	text-decoration: underline;
+}
+.thumbnails img {
+	height: 80px;
+	border: 4px solid rgb(241, 240, 126);
+	padding: 1px;
+	margin: 0 10px 10px 0;
+}
+
+.thumbnails img:hover {
+	border: 4px solid #00ccff;
+	cursor:pointer;
+}
+
+.preview img {
+	border: 4px solid rgb(68, 68, 68);
+	padding: 1px;
+	width: 800px;
+}
